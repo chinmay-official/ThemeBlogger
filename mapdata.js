@@ -1,18 +1,18 @@
 var simplemaps_countrymap_mapdata={
   main_settings: {
     //General settings
-    width: "300", //or 'responsive'
-    background_color: "#FFFFFF",
+    width: "600", //or 'responsive'
+    background_color: "#4ff605",
     background_transparent: "yes",
-    border_color: "#ffffff",
+    border_color: "#fc0000",
     pop_ups: "detect",
     
     //State defaults
     state_description: "State description",
     state_color: "#88A4BC",
-    state_hover_color: "#3B729F",
+    state_hover_color: "#fc0000",
     state_url: "",
-    border_size: 1.5,
+    border_size: 2,
     all_states_inactive: "no",
     all_states_zoomable: "yes",
     
@@ -77,197 +77,445 @@ var simplemaps_countrymap_mapdata={
       url: "default"
     },
     VNM444: {
-      name: "Tây Ninh"
+      name: "Tây Ninh",
+      description: "default",
+      color: "default",
+      hover_color: "default",
+      url: "default"
     },
     VNM450: {
-      name: "Điện Biên"
+      name: "Điện Biên",
+      description: "default",
+      color: "default",
+      hover_color: "default",
+      url: "default"
     },
     VNM451: {
-      name: "Đông Bắc"
+      name: "Đông Bắc",
+      description: "default",
+      color: "default",
+      hover_color: "default",
+      url: "default"
     },
     VNM452: {
-      name: "Thái Nguyên"
+      name: "Thái Nguyên",
+      description: "default",
+      color: "default",
+      hover_color: "default",
+      url: "default"
     },
     VNM453: {
-      name: "Lai Chau"
+      name: "Lai Châu",
+      description: "default",
+      color: "default",
+      hover_color: "default",
+      url: "default"
     },
     VNM454: {
-      name: "Lạng Sơn"
+      name: "Lạng Sơn",
+      description: "default",
+      color: "default",
+      hover_color: "default",
+      url: "default"
     },
     VNM455: {
-      name: "Son La"
+      name: "Sơn La",
+      description: "default",
+      color: "default",
+      hover_color: "default",
+      url: "default"
     },
     VNM456: {
-      name: "Thanh Hóa"
+      name: "Thanh Hóa",
+      description: "default",
+      color: "default",
+      hover_color: "default",
+      url: "default"
     },
     VNM457: {
-      name: "Tuyên Quang"
+      name: "Tuyên Quang",
+      description: "default",
+      color: "default",
+      hover_color: "default",
+      url: "default"
     },
     VNM458: {
-      name: "Yên Bái"
+      name: "Yên Bái",
+      description: "default",
+      color: "default",
+      hover_color: "default",
+      url: "default"
     },
     VNM459: {
-      name: "Hòa Bình"
+      name: "Hòa Bình",
+      description: "default",
+      color: "default",
+      hover_color: "default",
+      url: "default"
     },
     VNM460: {
-      name: "Hải Dương"
+      name: "Hải Dương",
+      description: "default",
+      color: "default",
+      hover_color: "default",
+      url: "default"
     },
     VNM4600: {
-      name: "Hải Phòng"
+      name: "Hải Phòng",
+      description: "default",
+      color: "default",
+      hover_color: "default",
+      url: "default"
     },
     VNM461: {
-      name: "Đồng Bằng Sông Hồng"
+      name: "Đồng Bằng Sông Hồng",
+      description: "default",
+      color: "default",
+      hover_color: "default",
+      url: "default"
     },
     VNM462: {
-      name: "Ha Noi"
+      name: "Hà Nội",
+      description: "default",
+      color: "default",
+      hover_color: "default",
+      url: "default"
     },
     VNM463: {
-      name: "Bắc Ninh"
+      name: "Bắc Ninh",
+      description: "default",
+      color: "default",
+      hover_color: "default",
+      url: "default"
     },
     VNM464: {
-      name: "Vĩnh Phúc"
+      name: "Vĩnh Phúc",
+      description: "default",
+      color: "default",
+      hover_color: "default",
+      url: "default"
     },
     VNM466: {
-      name: "Ninh Bình"
+      name: "Ninh Bình",
+      description: "default",
+      color: "default",
+      hover_color: "default",
+      url: "default"
     },
     VNM467: {
-      name: "Hà Nam"
+      name: "Hà Nam",
+      description: "default",
+      color: "default",
+      hover_color: "default",
+      url: "default"
     },
     VNM468: {
-      name: "Nam Định"
+      name: "Nam Định",
+      description: "default",
+      color: "default",
+      hover_color: "default",
+      url: "default"
     },
     VNM469: {
-      name: "Phú Thọ"
+      name: "Phú Thọ",
+      description: "default",
+      color: "default",
+      hover_color: "default",
+      url: "default"
     },
     VNM470: {
-      name: "Bắc Giang"
+      name: "Bắc Giang",
+      description: "default",
+      color: "default",
+      hover_color: "default",
+      url: "default"
     },
     VNM471: {
-      name: "Thái Bình"
+      name: "Thái Bình",
+      description: "default",
+      color: "default",
+      hover_color: "default",
+      url: "default"
     },
     VNM474: {
-      name: "Ha Tinh"
+      name: "Hà Tĩnh",
+      description: "Biển số: 38-XX YYYYY",
+      color: "default",
+      hover_color: "default",
+      url: "default"
     },
     VNM475: {
-      name: "Nghệ An"
+      name: "Nghệ An",
+      description: "Biển số: 37-XX YYYYY",
+      color: "default",
+      hover_color: "default",
+      url: "default"
     },
     VNM476: {
-      name: "Quảng Bình"
+      name: "Quảng Bình",
+      description: "default",
+      color: "default",
+      hover_color: "default",
+      url: "default"
     },
     VNM477: {
-      name: "Dak Lak"
+      name: "Dak Lak",
+      description: "default",
+      color: "default",
+      hover_color: "default",
+      url: "default"
     },
     VNM478: {
-      name: "Gia Lai"
+      name: "Gia Lai",
+      description: "default",
+      color: "default",
+      hover_color: "default",
+      url: "default"
     },
     VNM479: {
-      name: "Khánh Hòa"
+      name: "Khánh Hòa",
+      description: "default",
+      color: "default",
+      hover_color: "default",
+      url: "default"
     },
     VNM480: {
-      name: "Lâm Đồng"
+      name: "Lâm Đồng",
+      description: "default",
+      color: "default",
+      hover_color: "default",
+      url: "default"
     },
     VNM481: {
-      name: "Ninh Thuận"
+      name: "Ninh Thuận",
+      description: "default",
+      color: "default",
+      hover_color: "default",
+      url: "default"
     },
     VNM482: {
-      name: "Phú Yên"
+      name: "Phú Yên",
+      description: "default",
+      color: "default",
+      hover_color: "default",
+      url: "default"
     },
     VNM483: {
-      name: "Bình Dương"
+      name: "Bình Dương",
+      description: "default",
+      color: "default",
+      hover_color: "default",
+      url: "default"
     },
     VNM4834: {
-      name: "Tiền Giang"
+      name: "Tiền Giang",
+      description: "default",
+      color: "default",
+      hover_color: "default",
+      url: "default"
     },
     VNM4835: {
-      name: "Đắk Nông"
+      name: "Đắk Nông",
+      description: "default",
+      color: "default",
+      hover_color: "default",
+      url: "default"
     },
     VNM484: {
-      name: "Bình Phước"
+      name: "Bình Phước",
+      description: "default",
+      color: "default",
+      hover_color: "default",
+      url: "default"
     },
     VNM485: {
-      name: "Bình Định"
+      name: "Bình Định",
+      description: "default",
+      color: "default",
+      hover_color: "default",
+      url: "default"
     },
     VNM486: {
-      name: "Kon Tum"
+      name: "Kon Tum",
+      description: "default",
+      color: "default",
+      hover_color: "default",
+      url: "default"
     },
     VNM487: {
-      name: "Quàng Nam"
+      name: "Quảng Nam",
+      description: "default",
+      color: "default",
+      hover_color: "default",
+      url: "default"
     },
     VNM488: {
-      name: "Quảng Ngãi"
+      name: "Quảng Ngãi",
+      description: "default",
+      color: "default",
+      hover_color: "default",
+      url: "default"
     },
     VNM489: {
-      name: "Quảng Trị"
+      name: "Quảng Trị",
+      description: "default",
+      color: "default",
+      hover_color: "default",
+      url: "default"
     },
     VNM490: {
-      name: "Thừa Thiên - Huế"
+      name: "Thừa Thiên - Huế",
+      description: "default",
+      color: "default",
+      hover_color: "default",
+      url: "default"
     },
     VNM491: {
-      name: "Đà Nẵng"
+      name: "Đà Nẵng",
+      description: "default",
+      color: "default",
+      hover_color: "default",
+      url: "default"
     },
     VNM495: {
-      name: "Bà Rịa - Vũng Tàu"
+      name: "Bà Rịa - Vũng Tàu",
+      description: "default",
+      color: "default",
+      hover_color: "default",
+      url: "default"
     },
     VNM496: {
-      name: "Bình Thuận"
+      name: "Bình Thuận",
+      description: "default",
+      color: "default",
+      hover_color: "default",
+      url: "default"
     },
     VNM497: {
-      name: "Đông Nam Bộ"
+      name: "Đông Nam Bộ",
+      description: "default",
+      color: "default",
+      hover_color: "default",
+      url: "default"
     },
     VNM498: {
-      name: "An Giang"
+      name: "An Giang",
+      description: "default",
+      color: "default",
+      hover_color: "default",
+      url: "default"
     },
     VNM499: {
-      name: "Can Tho"
+      name: "Cần Thơ",
+      description: "default",
+      color: "default",
+      hover_color: "default",
+      url: "default"
     },
     VNM500: {
-      name: "Ð?ng Tháp"
+      name: "Ðồng Tháp",
+      description: "default",
+      color: "default",
+      hover_color: "default",
+      url: "default"
     },
     VNM501: {
-      name: "Hồ Chí Minh city"
+      name: "Thành Phố Hồ Chí Minh",
+      description: "default",
+      color: "default",
+      hover_color: "default",
+      url: "default"
     },
     VNM502: {
-      name: "Kiên Giang"
+      name: "Kiên Giang",
+      description: "default",
+      color: "default",
+      hover_color: "default",
+      url: "default"
     },
     VNM503: {
-      name: "Long An"
+      name: "Long An",
+      description: "default",
+      color: "default",
+      hover_color: "default",
+      url: "default"
     },
     VNM504: {
-      name: "Bến Tre"
+      name: "Bến Tre",
+      description: "default",
+      color: "default",
+      hover_color: "default",
+      url: "default"
     },
     VNM505: {
-      name: "Hau Giang"
+      name: "Hậu Giang",
+      description: "default",
+      color: "default",
+      hover_color: "default",
+      url: "default"
     },
     VNM506: {
-      name: "Bạc Liêu"
+      name: "Bạc Liêu",
+      description: "default",
+      color: "default",
+      hover_color: "default",
+      url: "default"
     },
     VNM507: {
-      name: "Cà Mau"
+      name: "Cà Mau",
+      description: "default",
+      color: "default",
+      hover_color: "default",
+      url: "default"
     },
     VNM508: {
-      name: "Sóc Trăng"
+      name: "Sóc Trăng",
+      description: "default",
+      color: "default",
+      hover_color: "default",
+      url: "default"
     },
     VNM509: {
-      name: "Trà Vinh"
+      name: "Trà Vinh",
+      description: "default",
+      color: "default",
+      hover_color: "default",
+      url: "default"
     },
     VNM510: {
-      name: "Vĩnh Long"
+      name: "Vĩnh Long",
+      description: "default",
+      color: "default",
+      hover_color: "default",
+      url: "default"
     },
     VNM511: {
-      name: "Cao Bằng"
+      name: "Cao Bằng",
+      description: "default",
+      color: "default",
+      hover_color: "default",
+      url: "default"
     },
     VNM512: {
-      name: "Hà Giang"
+      name: "Hà Giang",
+      description: "default",
+      color: "default",
+      hover_color: "default",
+      url: "default"
     },
     VNM5483: {
-      name: "Lào Cai"
+      name: "Lào Cai",
+      description: "default",
+      color: "default",
+      hover_color: "default",
+      url: "default"
     }
   },
   locations: {
     "0": {
       lat: "21.028167",
       lng: "105.854152",
-      name: "Hanoi"
+      name: "Thủ Đô Hà Nội"
     }
   }
 };
