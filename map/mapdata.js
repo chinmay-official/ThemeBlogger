@@ -91,8 +91,8 @@ var simplemaps_countrymap_mapdata={
       url: "default"
     },
     VNM451: {
-      name: "Đông Bắc",
-      description: "Biển số: MMMMMMMMMMMMMMMMMMMMM",
+      name: "Bắc Kạn",
+      description: "Biển số: 97",
       color: "default",
       hover_color: "default",
       url: "default"
@@ -168,8 +168,8 @@ var simplemaps_countrymap_mapdata={
       url: "default"
     },
     VNM461: {
-      name: "Đồng Bằng Sông Hồng",
-      description: "Biển số: MMMMMMMMMMMMMMMMMMMMM",
+      name: "Hưng Yên",
+      description: "Biển số: 89",
       color: "default",
       hover_color: "default",
       url: "default"
@@ -392,8 +392,8 @@ var simplemaps_countrymap_mapdata={
       url: "default"
     },
     VNM497: {
-      name: "Đông Nam Bộ",
-      description: "Biển số: MMMMMMMMMMMMMMMMMMMMM",
+      name: "Đồng Nai",
+      description: "Biển số: 39, 60",
       color: "default",
       hover_color: "default",
       url: "default"
