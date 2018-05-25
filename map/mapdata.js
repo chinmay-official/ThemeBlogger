@@ -71,441 +71,441 @@ var simplemaps_countrymap_mapdata={
   state_specific: {
     VNM429: {
       name: "Quảng Ninh",
-      description: "default",
+      description: "Biển số: 14",
       color: "default",
       hover_color: "default",
       url: "default"
     },
     VNM444: {
       name: "Tây Ninh",
-      description: "default",
+      description: "Biển số: 70",
       color: "default",
       hover_color: "default",
       url: "default"
     },
     VNM450: {
       name: "Điện Biên",
-      description: "default",
+      description: "Biển số: 27",
       color: "default",
       hover_color: "default",
       url: "default"
     },
     VNM451: {
       name: "Đông Bắc",
-      description: "default",
+      description: "Biển số: MMMMMMMMMMMMMMMMMMMMM",
       color: "default",
       hover_color: "default",
       url: "default"
     },
     VNM452: {
       name: "Thái Nguyên",
-      description: "default",
+      description: "Biển số: 20",
       color: "default",
       hover_color: "default",
       url: "default"
     },
     VNM453: {
       name: "Lai Châu",
-      description: "default",
+      description: "Biển số: 25",
       color: "default",
       hover_color: "default",
       url: "default"
     },
     VNM454: {
       name: "Lạng Sơn",
-      description: "default",
+      description: "Biển số: 12",
       color: "default",
       hover_color: "default",
       url: "default"
     },
     VNM455: {
       name: "Sơn La",
-      description: "default",
+      description: "Biển số: 26",
       color: "default",
       hover_color: "default",
       url: "default"
     },
     VNM456: {
       name: "Thanh Hóa",
-      description: "default",
+      description: "Biển số: 36",
       color: "default",
       hover_color: "default",
       url: "default"
     },
     VNM457: {
       name: "Tuyên Quang",
-      description: "default",
+      description: "Biển số: 22",
       color: "default",
       hover_color: "default",
       url: "default"
     },
     VNM458: {
       name: "Yên Bái",
-      description: "default",
+      description: "Biển số: 21",
       color: "default",
       hover_color: "default",
       url: "default"
     },
     VNM459: {
       name: "Hòa Bình",
-      description: "default",
+      description: "Biển số: 28",
       color: "default",
       hover_color: "default",
       url: "default"
     },
     VNM460: {
       name: "Hải Dương",
-      description: "default",
+      description: "Biển số: 34",
       color: "default",
       hover_color: "default",
       url: "default"
     },
     VNM4600: {
       name: "Hải Phòng",
-      description: "default",
+      description: "Biển số: 15, 16",
       color: "default",
       hover_color: "default",
       url: "default"
     },
     VNM461: {
       name: "Đồng Bằng Sông Hồng",
-      description: "default",
+      description: "Biển số: MMMMMMMMMMMMMMMMMMMMM",
       color: "default",
       hover_color: "default",
       url: "default"
     },
     VNM462: {
       name: "Hà Nội",
-      description: "default",
+      description: "Biển số: 29, 30, 31, 32, 33, 40",
       color: "default",
       hover_color: "default",
       url: "default"
     },
     VNM463: {
       name: "Bắc Ninh",
-      description: "default",
+      description: "Biển số: 99",
       color: "default",
       hover_color: "default",
       url: "default"
     },
     VNM464: {
       name: "Vĩnh Phúc",
-      description: "default",
+      description: "Biển số: 88",
       color: "default",
       hover_color: "default",
       url: "default"
     },
     VNM466: {
       name: "Ninh Bình",
-      description: "default",
+      description: "Biển số: 35",
       color: "default",
       hover_color: "default",
       url: "default"
     },
     VNM467: {
       name: "Hà Nam",
-      description: "default",
+      description: "Biển số: 90",
       color: "default",
       hover_color: "default",
       url: "default"
     },
     VNM468: {
       name: "Nam Định",
-      description: "default",
+      description: "Biển số: 18M",
       color: "default",
       hover_color: "default",
       url: "default"
     },
     VNM469: {
       name: "Phú Thọ",
-      description: "default",
+      description: "Biển số: 19",
       color: "default",
       hover_color: "default",
       url: "default"
     },
     VNM470: {
       name: "Bắc Giang",
-      description: "default",
+      description: "Biển số: 98",
       color: "default",
       hover_color: "default",
       url: "default"
     },
     VNM471: {
       name: "Thái Bình",
-      description: "default",
+      description: "Biển số: 17",
       color: "default",
       hover_color: "default",
       url: "default"
     },
     VNM474: {
       name: "Hà Tĩnh",
-      description: "Biển số: 38-XX YYYYY",
+      description: "Biển số: 38",
       color: "default",
       hover_color: "default",
       url: "default"
     },
     VNM475: {
       name: "Nghệ An",
-      description: "Biển số: 37-XX YYYYY",
+      description: "Biển số: 37",
       color: "default",
       hover_color: "default",
       url: "default"
     },
     VNM476: {
       name: "Quảng Bình",
-      description: "default",
+      description: "Biển số: 73",
       color: "default",
       hover_color: "default",
       url: "default"
     },
     VNM477: {
       name: "Dak Lak",
-      description: "default",
+      description: "Biển số: 47",
       color: "default",
       hover_color: "default",
       url: "default"
     },
     VNM478: {
       name: "Gia Lai",
-      description: "default",
+      description: "Biển số: 81",
       color: "default",
       hover_color: "default",
       url: "default"
     },
     VNM479: {
       name: "Khánh Hòa",
-      description: "default",
+      description: "Biển số: 79",
       color: "default",
       hover_color: "default",
       url: "default"
     },
     VNM480: {
       name: "Lâm Đồng",
-      description: "default",
+      description: "Biển số: 49",
       color: "default",
       hover_color: "default",
       url: "default"
     },
     VNM481: {
       name: "Ninh Thuận",
-      description: "default",
+      description: "Biển số: 85",
       color: "default",
       hover_color: "default",
       url: "default"
     },
     VNM482: {
       name: "Phú Yên",
-      description: "default",
+      description: "Biển số: 78",
       color: "default",
       hover_color: "default",
       url: "default"
     },
     VNM483: {
       name: "Bình Dương",
-      description: "default",
+      description: "Biển số: 61",
       color: "default",
       hover_color: "default",
       url: "default"
     },
     VNM4834: {
       name: "Tiền Giang",
-      description: "default",
+      description: "Biển số: 63",
       color: "default",
       hover_color: "default",
       url: "default"
     },
     VNM4835: {
       name: "Đắk Nông",
-      description: "default",
+      description: "Biển số: 48",
       color: "default",
       hover_color: "default",
       url: "default"
     },
     VNM484: {
       name: "Bình Phước",
-      description: "default",
+      description: "Biển số: 93",
       color: "default",
       hover_color: "default",
       url: "default"
     },
     VNM485: {
       name: "Bình Định",
-      description: "default",
+      description: "Biển số: 77",
       color: "default",
       hover_color: "default",
       url: "default"
     },
     VNM486: {
       name: "Kon Tum",
-      description: "default",
+      description: "Biển số: 82",
       color: "default",
       hover_color: "default",
       url: "default"
     },
     VNM487: {
       name: "Quảng Nam",
-      description: "default",
+      description: "Biển số: 92",
       color: "default",
       hover_color: "default",
       url: "default"
     },
     VNM488: {
       name: "Quảng Ngãi",
-      description: "default",
+      description: "Biển số: 76",
       color: "default",
       hover_color: "default",
       url: "default"
     },
     VNM489: {
       name: "Quảng Trị",
-      description: "default",
+      description: "Biển số: 74",
       color: "default",
       hover_color: "default",
       url: "default"
     },
     VNM490: {
       name: "Thừa Thiên - Huế",
-      description: "default",
+      description: "Biển số: 75",
       color: "default",
       hover_color: "default",
       url: "default"
     },
     VNM491: {
       name: "Đà Nẵng",
-      description: "default",
+      description: "Biển số: 43",
       color: "default",
       hover_color: "default",
       url: "default"
     },
     VNM495: {
       name: "Bà Rịa - Vũng Tàu",
-      description: "default",
+      description: "Biển số: 72",
       color: "default",
       hover_color: "default",
       url: "default"
     },
     VNM496: {
       name: "Bình Thuận",
-      description: "default",
+      description: "Biển số: 86",
       color: "default",
       hover_color: "default",
       url: "default"
     },
     VNM497: {
       name: "Đông Nam Bộ",
-      description: "default",
+      description: "Biển số: MMMMMMMMMMMMMMMMMMMMM",
       color: "default",
       hover_color: "default",
       url: "default"
     },
     VNM498: {
       name: "An Giang",
-      description: "default",
+      description: "Biển số: 67",
       color: "default",
       hover_color: "default",
       url: "default"
     },
     VNM499: {
       name: "Cần Thơ",
-      description: "default",
+      description: "Biển số: 65",
       color: "default",
       hover_color: "default",
       url: "default"
     },
     VNM500: {
       name: "Ðồng Tháp",
-      description: "default",
+      description: "Biển số: 66",
       color: "default",
       hover_color: "default",
       url: "default"
     },
     VNM501: {
       name: "Thành Phố Hồ Chí Minh",
-      description: "default",
+      description: "Biển số: 41, 50 đến 59",
       color: "default",
       hover_color: "default",
       url: "default"
     },
     VNM502: {
       name: "Kiên Giang",
-      description: "default",
+      description: "Biển số: 68",
       color: "default",
       hover_color: "default",
       url: "default"
     },
     VNM503: {
       name: "Long An",
-      description: "default",
+      description: "Biển số: 62",
       color: "default",
       hover_color: "default",
       url: "default"
     },
     VNM504: {
       name: "Bến Tre",
-      description: "default",
+      description: "Biển số: 71",
       color: "default",
       hover_color: "default",
       url: "default"
     },
     VNM505: {
       name: "Hậu Giang",
-      description: "default",
+      description: "Biển số: 95",
       color: "default",
       hover_color: "default",
       url: "default"
     },
     VNM506: {
       name: "Bạc Liêu",
-      description: "default",
+      description: "Biển số: 94",
       color: "default",
       hover_color: "default",
       url: "default"
     },
     VNM507: {
       name: "Cà Mau",
-      description: "default",
+      description: "Biển số: 69",
       color: "default",
       hover_color: "default",
       url: "default"
     },
     VNM508: {
       name: "Sóc Trăng",
-      description: "default",
+      description: "Biển số: 83",
       color: "default",
       hover_color: "default",
       url: "default"
     },
     VNM509: {
       name: "Trà Vinh",
-      description: "default",
+      description: "Biển số: 84",
       color: "default",
       hover_color: "default",
       url: "default"
     },
     VNM510: {
       name: "Vĩnh Long",
-      description: "default",
+      description: "Biển số: 64",
       color: "default",
       hover_color: "default",
       url: "default"
     },
     VNM511: {
       name: "Cao Bằng",
-      description: "default",
+      description: "Biển số: 11",
       color: "default",
       hover_color: "default",
       url: "default"
     },
     VNM512: {
       name: "Hà Giang",
-      description: "default",
+      description: "Biển số: 23",
       color: "default",
       hover_color: "default",
       url: "default"
     },
     VNM5483: {
       name: "Lào Cai",
-      description: "default",
+      description: "Biển số: 24",
       color: "default",
       hover_color: "default",
       url: "default"
