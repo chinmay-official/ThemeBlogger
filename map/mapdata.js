@@ -421,7 +421,7 @@ var simplemaps_countrymap_mapdata={
     },
     VNM501: {
       name: "Thành Phố Hồ Chí Minh",
-      description: "Biển số: 41, 50 đến 59",
+      description: "Biển số: 41, 50, 51, 52, 53, 54, 55, 56, 57, 58, 59",
       color: "default",
       hover_color: "default",
       url: "default"
@@ -515,7 +515,8 @@ var simplemaps_countrymap_mapdata={
     "0": {
       lat: "21.028167",
       lng: "105.854152",
-      name: "Thủ Đô Hà Nội"
+      name: "Thủ Đô Hà Nội",
+      description: "Biển số: 29, 30, 31, 32, 33, 40"
     }
   }
 };
